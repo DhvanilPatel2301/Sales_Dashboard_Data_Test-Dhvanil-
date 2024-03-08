@@ -1,8 +1,6 @@
 # Sales and Inventory Analysis with PowerBI
 
-### Dashboard Page 1 (Sales) 
-
-
+https://github.com/DhvanilPatel2301/Sales_Dashboard_Data_Test-Dhvanil-/assets/119676039/c96eae0e-1455-4f9f-8fe7-a661fcae5796
 
 📊 Dashboard created on Power BI.
 
