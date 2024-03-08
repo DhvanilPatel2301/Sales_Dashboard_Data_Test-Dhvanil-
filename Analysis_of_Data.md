@@ -81,7 +81,7 @@ By examining the performance metrics of different product categories, stakeholde
 ### Problem Statement
 ### 1. Set reorder points and Re-Order Quantity based on historical sales data
 
-![Inventory and Re-Order Level](https://github.com/DhvanilPatel2301/Sales_Dashboard_Data_Test-Dhvanil-/assets/119676039/b144ebef-b6a2-47fd-b7a3-3605e85ca6cd)
+![Re-Order Level](https://github.com/DhvanilPatel2301/Sales_Dashboard_Data_Test-Dhvanil-/assets/119676039/0e8f31c7-331a-4a1a-8f04-97ac0c0ffa15)
 
 #### Introduction:
 
