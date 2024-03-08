@@ -1,6 +1,6 @@
 # Sales and Inventory Analysis with PowerBI
 
-https://github.com/DhvanilPatel2301/Sales_Dashboard_Data_Test-Dhvanil-/issues/1#issue-2175158135
+![Sales Dashboard](https://github.com/DhvanilPatel2301/Sales_Dashboard_Data_Test-Dhvanil-/assets/119676039/09c4ecd9-4c4f-4947-98b3-35d21393f016)
 
 📊 Dashboard created on Looker Studio.
 
