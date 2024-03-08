@@ -91,5 +91,25 @@ The Dashboard titled "Inventory Management Insights by Product" offers a compreh
 
 This dashboard provides valuable insights into inventory management on a product-specific level. It showcases the minimum reorder points required for each product based on historical sales data and calculates the reorder amounts necessary to replenish inventory adequately for the upcoming 20-day period.
 
+## TASK-03 Cross-Selling Opportunities:
+
+### Problem Statement
+#### 1.Identify products frequently purchased together (cross-selling)
+
+
+
+#### Introduction:
+The Dashboard titled "Cross-Selling Analysis" offers insights into products frequently purchased together, enabling businesses to identify potential cross-selling opportunities and enhance revenue generation strategies.
+
+#### Explanation:
+This dashboard is designed to analyze customer purchasing behavior and identify correlations between products frequently bought together. It features a dynamic interaction where selecting a product from the table prompts the column chart to display the count of products purchased together with the selected item.
+
+#### Key Insights:
+
+* By understanding which products are commonly purchased together, businesses can tailor their marketing and sales efforts to promote complementary items, driving additional sales and revenue.
+* The interactive nature of the dashboard allows users to explore cross-selling patterns across various product categories, gaining actionable insights into customer preferences and behavior.
+* Analyzing cross-selling data empowers businesses to optimize product bundling strategies, improve inventory management, and enhance the overall customer shopping experience.
+Identifying product combinations with high purchase frequency facilitates targeted promotional campaigns, personalized recommendations, and effective merchandising tactics to maximize sales opportunities.
+
 
 
