@@ -96,7 +96,9 @@ This dashboard provides valuable insights into inventory management on a product
 ### Problem Statement
 #### 1.Identify products frequently purchased together (cross-selling)
 
+![Cross-Selling](https://github.com/DhvanilPatel2301/Sales_Dashboard_Data_Test-Dhvanil-/assets/119676039/0240b32b-fc32-4b50-affa-7949a521ef86)
 
+![Cross-Selling 2](https://github.com/DhvanilPatel2301/Sales_Dashboard_Data_Test-Dhvanil-/assets/119676039/0426da74-c51a-423d-aa27-0c5475ed5ad9)
 
 #### Introduction:
 The Dashboard titled "Cross-Selling Analysis" offers insights into products frequently purchased together, enabling businesses to identify potential cross-selling opportunities and enhance revenue generation strategies.
