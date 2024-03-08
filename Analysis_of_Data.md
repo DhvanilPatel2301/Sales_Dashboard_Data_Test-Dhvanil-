@@ -76,3 +76,20 @@ This table offers a comprehensive overview of the performance metrics for each p
 #### Interpretation:
 By examining the performance metrics of different product categories, stakeholders can gain valuable insights to inform strategic decision-making. Understanding the sales trends, pricing dynamics, and revenue contributions of each category enables effective resource allocation, marketing strategies, and product development initiatives to capitalize on market opportunities and drive business growth.
 
+## TASK-02 Sales Analysis:
+
+### Problem Statement
+### 1. Set reorder points and Re-Order Quantity based on historical sales data
+
+![Inventory and Re-Order Level](https://github.com/DhvanilPatel2301/Sales_Dashboard_Data_Test-Dhvanil-/assets/119676039/b144ebef-b6a2-47fd-b7a3-3605e85ca6cd)
+
+#### Introduction:
+
+The Dashboard titled "Inventory Management Insights by Product" offers a comprehensive overview of minimum reorder points and reorder amounts based on historical sales data and current inventory levels for the next 20 days, segmented by product name.
+
+#### Explanation:
+
+This dashboard provides valuable insights into inventory management on a product-specific level. It showcases the minimum reorder points required for each product based on historical sales data and calculates the reorder amounts necessary to replenish inventory adequately for the upcoming 20-day period.
+
+
+
