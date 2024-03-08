@@ -35,16 +35,18 @@ The subsequent decline in December signifies a decrease in sales activity compar
 
 ![Tooltip of Sales Trend](https://github.com/DhvanilPatel2301/Sales_Dashboard_Data_Test-Dhvanil-/assets/119676039/2234b803-5612-499c-8f82-812c519b708c)
 
-Introduction:
+#### Introduction:
+
 The Column Chart titled "Top Sellers by Product Name" showcases the performance of the top five sellers based on total units sold.
 
-Explanation:
+#### Explanation:
+
 This visualization provides a clear overview of the sales performance of the top-selling products. The columns represent each product, while the height of the columns indicates the total number of units sold for each respective product.
 
 #### Key Insights:
 
-*"Blue Razzleberry" emerges as the top-selling product, demonstrating strong sales performance.
+* "Blue Razzleberry" emerges as the top-selling product, demonstrating strong sales performance.
 Following closely is "Strawberry Melon," indicating a competitive market presence.
-*"Kodo Pro" and "Afghan Black Hash" occupy the third and fourth positions, respectively, showcasing notable sales figures.*
-"Blackberry Lemonade" rounds out the top five sellers, contributing to the overall sales volume.
+* "Kodo Pro" and "Afghan Black Hash" occupy the third and fourth positions, respectively, showcasing notable sales figures.
+* "Blackberry Lemonade" rounds out the top five sellers, contributing to the overall sales volume.
 
